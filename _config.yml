@@ -1,0 +1,17 @@
+title: tomo pi sitelen pona
+logo: /images/logo.svg
+description: kulupu lipu pi+toki+pona li sitelen kepeken sitelen+pona
+author: jan Tepu
+copyright: jan [_toki_en_pona_uta] li pali e ni kepeken linja+pona nanpa tu+tu
+lang: tp
+
+markdown: kramdown
+remote_theme: mmistakes/so-simple-theme
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  texts:
+    output: true
+    permalink: /:path
+

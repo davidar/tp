@@ -1,0 +1,67 @@
+---
+sitemap: false
+---
+
+@charset "utf-8";
+
+$base-font-size: 20px;
+$min-font-size: $base-font-size;
+$max-font-size: $base-font-size;
+$serif-font-family: linja-pona;
+$sans-serif-font-family: linja-pona;
+$monospace-font-family: linja-pona;
+
+@import "so-simple";
+
+@import "https://davidar.github.io/linja-pona/stylesheet.css";
+
+html {
+  font-family: linja-pona;
+  font-feature-settings: "liga" 1, "clig" 1, "calt" 1, "kern" 1, "mark" 1;
+  text-rendering: optimizeLegibility;
+  line-height: 1.25;
+}
+
+.site-logo-img {
+  border: none;
+  border-radius: 0;
+}
+
+h1, h2, h3, h4, h5, h6, .author {
+  text-align: center;
+  span.link-arrow { display: none }
+}
+
+h1, h2, h3, h4, h5, h6, .site-title, .site-description, .entry-title, .page-title {
+  font-weight: normal;
+  font-style: normal;
+}
+
+a, .copyright a {
+  text-decoration: none;
+  color: #bd1c2b;
+  &:hover { color: #84141e }
+}
+.site-title a:hover {
+  color: #34374C;
+}
+
+.layout--page .page-content {
+  font-size: 120%;
+  text-align: justify;
+  p {
+    &.right {
+      text-align: right;
+      margin: -1.5rem 0 0.5rem;
+    }
+    span.right {
+      text-align: right;
+      float: right;
+    }
+    &:after {
+      content: "";
+      display: block;
+      clear: both;
+    }
+  }
+}
