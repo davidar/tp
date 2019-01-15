@@ -8,7 +8,9 @@ image:
   caption: "[tan](https://commons.wikimedia.org/wiki/File:Lava_Lake_Nyiragongo_2.jpg)"
 ---
 
-<p class="author" markdown="1">[jan [_ma_ale_li_ijo]](https://github.com/jan-Lope/Toki_Pona_lessons_English)</p>
+<p class="author" markdown="1">
+[jan [_ma_ale_li_ijo]](https://github.com/jan-Lope/Toki_Pona_lessons_English) li toki+ante e [lipu+ni](http://eng.mataurangamaori.tki.org.nz/Support-materials/Te-Reo-Maori/Maori-Myths-Legends-and-Contemporary-Stories/How-Maui-brought-fire-to-the-world)
+</p>
 
 tenpo+pimeja wan la jan [_musi] li anpa lon+poka pi+seli ona li lukin+e seli.
 seli li tawa+nasa li tawa+musi.

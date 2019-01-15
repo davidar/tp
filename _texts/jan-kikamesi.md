@@ -8,7 +8,9 @@ image:
   caption: "[tan](https://commons.wikimedia.org/wiki/File:The_Newly_Discovered_Tablet_V_of_the_Epic_of_Gilgamesh,_The_Sulaymaniyah_Museum,_Iraq.jpg)"
 ---
 
-<p class="author" markdown="1">[jan [_oo_toki_ee]](https://tomolipu.blogspot.com/2016/05/toki-pi-jan-lawa-kikamesi.html)</p>
+<p class="author" markdown="1">
+[jan [_oo_toki_ee]](https://tomolipu.blogspot.com/2016/05/toki-pi-jan-lawa-kikamesi.html) li toki+ante e [lipu+ni](http://www.aina.org/books/eog/eog.htm)
+</p>
 
 ## jan[_kiwen_ilo_kiwen_ale_mije_en_sewi_ilo] li jan+lawa pi+ma+tomo[_utala_lawa_utala_kiwen_utala]
 

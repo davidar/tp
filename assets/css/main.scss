@@ -40,10 +40,12 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-description, .entry-title, .page-titl
 a, .copyright a {
   text-decoration: none;
   color: #bd1c2b;
+  opacity: 1;
   &:hover { color: #84141e }
 }
-.site-title a:hover {
-  color: #34374C;
+.site-title a:hover, .page-image-caption a:hover {
+  color: inherit;
+  opacity: 0.5;
 }
 
 .layout--page .page-content {
@@ -63,5 +65,10 @@ a, .copyright a {
       display: block;
       clear: both;
     }
+  }
+  hr {
+    width: 80%;
+    border: 0.75px solid black;
+    margin: 1.5rem auto;
   }
 }

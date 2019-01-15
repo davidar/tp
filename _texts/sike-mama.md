@@ -7,7 +7,9 @@ image:
   caption: "[tan](https://commons.wikimedia.org/wiki/File:M57_The_Ring_Nebula.JPG)"
 ---
 
-<p class="author" markdown="1">[jan [_ma_o]](https://morr.cc/sike-mama/)</p>
+<p class="author" markdown="1">
+[jan [_seme_e_pan_a_sin_ijo_jan_a_ni_zz_ma_o]](https://morr.cc/sike-mama/) li toki+ante e [lipu+ni](http://www.galactanet.com/oneoff/theegg_mod.html)
+</p>
 
 tenpo pi+tawa tomo+sina la
 sina moli.
