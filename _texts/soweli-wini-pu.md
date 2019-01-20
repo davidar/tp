@@ -303,7 +303,7 @@ taso tan ijo la tawa+mi la ona+mute li pilin pi+ken pi+ike+kama."
 "ken.
 tenpo+ala la jan li ken kama+sona e ijo pi+pipi kon pi+ko+suwi."
 
-weka kalama+lili sin li lon.
+weka kalama lili sin li lon.
 pini+ona la ona+li toki+wawa tawa+sina lon tenpo+sin.
 
 "jan [_kulupu] o!"
@@ -510,7 +510,7 @@ soweli [_pu] li tan lupa e lawa li toki+insa lon tenpo+wan li toki+tawa ona+sama
 ni la tenpo+sin la ona+li lon+insa lupa e lawa li toki+e ni:
 "toki, soweli pi+kute suli o, seme anu ni li sina?"
 
-"ala" li toki pi+soweli pi+kute suli kepeken kalama+uta ante, lon tenpo+ni.
+"ala" li toki pi+soweli pi+kute suli kepeken kalama uta ante, lon tenpo+ni.
 
 "taso seme anu ni li kalama uta pi+soweli pi+kute suli?"
 
@@ -558,7 +558,7 @@ ona+li pilin pi+pona+mute tan+ni: soweli pi+kute suli li lon+supa e poki li toki
 ona+li pilin pi+nasa wawa ni: ona+li toki+sin e ni: "tu ale."
 ona+li wile+e ni ala: ona+li wile+ike. tan+ni la ona+li toki+sin e ni: sina ken awen+weka e pan.
 pini+ni la tenpo+suli la ona+li toki+ala...
-pini+ona la ona+li kalama+musi kepeken uta pi+open+ala, tawa ona+sama, kepeken kalama+uta ko+a li kama+sinpin li luka+e luka pi+soweli pi+kute suli kepeken pilin li toki+e ni: ona+li wile+tawa.
+pini+ona la ona+li kalama+musi kepeken uta pi+open+ala, tawa ona+sama, kepeken kalama uta ko+a li kama+sinpin li luka+e luka pi+soweli pi+kute suli kepeken pilin li toki+e ni: ona+li wile+tawa.
 
 "sina wile anu seme?" li toki+suwi pi+soweli pi+kute suli.
 
@@ -749,7 +749,7 @@ ona+li palisa e anpa lon+sinpin.
 "sina lukin+e seme?"
 
 "sitelen+noka" li toki pi+soweli lili.
-ona+li kalama+lili kepeken uta+lili, tan pilin pi+nasa wawa.
+ona+li kalama lili kepeken uta+lili, tan pilin pi+nasa wawa.
 "soweli [_pu] o!
 tawa+sina la ni li ... ni li ... ni li soweli pi+kiwen+uta wawa anu seme?"
 
