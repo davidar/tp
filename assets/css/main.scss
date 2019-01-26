@@ -35,6 +35,7 @@ h1, h2, h3, h4, h5, h6, .author {
 h1, h2, h3, h4, h5, h6, .site-title, .site-description, .entry-title, .page-title {
   font-weight: normal;
   font-style: normal;
+  letter-spacing: 0;
 }
 
 a, .copyright a {
@@ -71,4 +72,38 @@ a, .copyright a {
     border: 0.75px solid black;
     margin: 1.5rem auto;
   }
+}
+
+table.handout {
+  font-size: 150%;
+  tbody {
+    border-width: 3px;
+    border-style: solid none;
+    border-color: $border-color;
+    tr:first-child td {
+      padding-top: 2em;
+    }
+    tr:last-child td {
+      padding-bottom: 2em;
+    }
+  }
+  em {
+    font-style: normal;
+    color: #f40;
+  }
+}
+
+.speech-left, .speech-right {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-size: 75%;
+}
+.speech-left {
+  background-image: url(../../images/speech-left.svg);
+  padding: 1em 0.5em 0.5em 0.5em;
+}
+.speech-right {
+  background-image: url(../../images/speech-right.svg);
+  padding: 1em 0.2em 0.5em 1em;
 }
