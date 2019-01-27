@@ -61,4 +61,34 @@ image:
 |-
 ![](images/learn/talk.svg) <span class="speech-right">ni li soweli.</span> | meli li toki e ni: "ni li soweli."<br> ni li *lon*.
 <span class="speech-left">ni li waso.</span> ![](images/learn/talk.svg) | mije li toki e ni: "ni li waso."<br> ni li *lon ala*.
+|-
+![](images/learn/tools.svg)      | ni li *ilo*.
+![](images/learn/hold-lamp.svg)  | jan li *jo* e ilo.
+![](images/learn/hold-parts.svg) | meli li jo e *wan* ilo.<br> mije li jo e *wan* ilo ante.
+|-
+![](images/learn/dig-hole.svg) | jan li *pali*.<br> jan li *pali* e lupa.<br> jan li *pali* e lupa *kepeken* ilo.
+|-
+![](images/learn/do-bad.svg)  | meli li pali e ijo *ike* tawa mije.
+![](images/learn/do-good.svg) | meli li pali e ijo *pona* tawa mije.
+|-
+![](images/learn/feel-bad.svg)  | jan li *pilin* ike.
+![](images/learn/feel-good.svg) | jan li *pilin* pona.
+|-
+![](images/learn/dead-fish.svg) | *kala* tu li *lon*.<br> *kala* wan li *moli*.
+![](images/learn/cat-fish.svg)  | soweli li pali e ijo ike tawa kala.<br> kala li moli *tan* ni.
+|-
+![](images/learn/think.svg)   | mije li *pilin e ni:* meli li lon lupa.
+![](images/learn/in-hole.svg) | mije li *sona* e ijo meli.<br> mije li *sona e ni:* meli li lon lupa.<br> mije li *sona* tan ni: mije li lukin e meli lon lupa.
+|-
+![](images/learn/hold-cake.svg) | jan li jo e *pan*.
+![](images/learn/want-cake.svg) | jan li *wile* jo e pan.
+|-
+![](images/learn/cannot-see.svg) | mije li *ken* lukin e soweli.<br> meli li *ken ala* lukin e soweli.
+|-
+![](images/learn/time.svg) | mije li lukin e ilo.<br> *tenpo kama la* meli li lukin e ilo.
+|-
+![](images/learn/dig-short.svg) | *tenpo lili la* jan li pali.
+![](images/learn/dig-long.svg)  | *tenpo suli la* jan li pali.
+|-
+![](images/learn/run-to-dog.svg) | jan li *tawa*.<br> jan li *tawa* soweli.
 {: .handout}
