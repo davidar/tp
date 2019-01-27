@@ -107,3 +107,28 @@ table.handout {
   background-image: url(../../images/speech-right.svg);
   padding: 1em 0.2em 0.5em 1em;
 }
+
+dl {
+  dt {
+    font-weight: normal;
+    font-size: 200%;
+    float: left;
+    margin-top: 0 !important;
+  }
+  dt, dt + dd {
+    padding-top: 0.5rem;
+  }
+  dd {
+    margin-left: 3rem;
+    margin-bottom: 0.5rem;
+    em {
+      margin-right: 1em;
+      font-style: normal;
+      font-weight: bold;
+    }
+  }
+  >br {
+    display: block;
+    clear: both;
+  }
+}

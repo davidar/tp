@@ -68,11 +68,11 @@ image:
 |-
 ![](images/learn/dig-hole.svg) | jan li *pali*.<br> jan li *pali* e lupa.<br> jan li *pali* e lupa *kepeken* ilo.
 |-
-![](images/learn/do-bad.svg)  | meli li pali e ijo *ike* tawa mije.
-![](images/learn/do-good.svg) | meli li pali e ijo *pona* tawa mije.
+![](images/learn/do-bad.svg)  | meli li pali e ijo *ike* tawa mije.<br> meli li pali e *ijo+ike* tawa mije.
+![](images/learn/do-good.svg) | meli li pali e ijo *pona* tawa mije.<br> meli li pali e *ijo+pona* tawa mije.
 |-
-![](images/learn/feel-bad.svg)  | jan li *pilin* ike.
-![](images/learn/feel-good.svg) | jan li *pilin* pona.
+![](images/learn/feel-bad.svg)  | jan li *pilin* ike.<br> jan li *pilin+ike*.
+![](images/learn/feel-good.svg) | jan li *pilin* pona.<br> jan li *pilin+pona*.
 |-
 ![](images/learn/dead-fish.svg) | *kala* tu li *lon*.<br> *kala* wan li *moli*.
 ![](images/learn/cat-fish.svg)  | soweli li pali e ijo ike tawa kala.<br> kala li moli *tan* ni.
@@ -92,3 +92,7 @@ image:
 |-
 ![](images/learn/run-to-dog.svg) | jan li *tawa*.<br> jan li *tawa* soweli.
 {: .handout}
+
+<div style="font-size: 300%; margin: 1em auto; text-align: center">
+  <a href="lipu-nimi">o tawa lipu+nimi!</a>
+</div>
