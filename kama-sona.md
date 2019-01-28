@@ -54,13 +54,13 @@ image:
 ![](images/learn/little-pigs.svg) | soweli wan li *suli*.<br> soweli tu li *suli* ala.<br> soweli tu li *lili*.
 ![](images/learn/big-bird.svg)    | waso li suli *mute*.
 |-
-<span class="speech-left">soweli li suli.</span> ![](images/learn/talk.svg) | mije li *toki*.<br> mije li *toki tawa* meli.<br> mije li *toki* soweli tawa meli.<br> mije li *toki e ni:* "soweli li suli."
+<span class="speech-left">soweli li suli.</span> ![](images/learn/talk.svg) | mije li *toki*.<br> mije li *toki tawa* meli.<br> mije li *toki* soweli tawa meli.<br> mije li *toki e ni:*<br>zzzz "soweli li suli."
 |-
 <span class="speech-left">soweli li suli.</span> ![](images/learn/talk.svg) | mije li toki e *nimi*.
 ![](images/learn/talk.svg) <span class="speech-right">soweli li suli.<br> soweli li lili ala.</span> | meli li toki e *nimi* mute.
 |-
-![](images/learn/talk.svg) <span class="speech-right">ni li soweli.</span> | meli li toki e ni: "ni li soweli."<br> ni li *lon*.
-<span class="speech-left">ni li waso.</span> ![](images/learn/talk.svg) | mije li toki e ni: "ni li waso."<br> ni li *lon ala*.
+![](images/learn/talk.svg) <span class="speech-right">ni li soweli.</span> | meli li toki e ni:<br>zzzz "ni li soweli."<br> ni li *lon*.
+<span class="speech-left">ni li waso.</span> ![](images/learn/talk.svg) | mije li toki e ni:<br>zzzz "ni li waso."<br> ni li *lon ala*.
 |-
 ![](images/learn/tools.svg)      | ni li *ilo*.
 ![](images/learn/hold-lamp.svg)  | jan li *jo* e ilo.
@@ -77,8 +77,8 @@ image:
 ![](images/learn/dead-fish.svg) | *kala* tu li *lon*.<br> *kala* wan li *moli*.
 ![](images/learn/cat-fish.svg)  | soweli li pali e ijo ike tawa kala.<br> kala li moli *tan* ni.
 |-
-![](images/learn/think.svg)   | mije li *pilin e ni:* meli li lon lupa.
-![](images/learn/in-hole.svg) | mije li *sona* e ijo meli.<br> mije li *sona e ni:* meli li lon lupa.<br> mije li *sona* tan ni: mije li lukin e meli lon lupa.
+![](images/learn/think.svg)   | mije li *pilin e ni:*<br>zzzz meli li lon lupa.
+![](images/learn/in-hole.svg) | mije li *sona* e ijo meli.<br> mije li *sona e ni:*<br>zzzz meli li lon lupa.<br> mije li *sona* tan ni:<br>zzzz mije li lukin e meli lon lupa.
 |-
 ![](images/learn/hold-cake.svg) | jan li jo e *pan*.
 ![](images/learn/want-cake.svg) | jan li *wile* jo e pan.

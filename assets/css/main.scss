@@ -76,6 +76,7 @@ a, .copyright a {
 
 table.handout {
   font-size: 150%;
+  table-layout: fixed;
   tbody {
     border-width: 3px;
     border-style: solid none;
@@ -85,6 +86,9 @@ table.handout {
     }
     tr:last-child td {
       padding-bottom: 2em;
+    }
+    tr td:first-child {
+      white-space: nowrap;
     }
   }
   em {
