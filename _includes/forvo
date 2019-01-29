@@ -1,0 +1,5 @@
+<div class="forvo" id="forvo-{{ include.id }}">
+  <a href="#" onclick="forvo('{{ include.id }}'); return false">
+    <img src="https://forvo.com/_presentation/img/ico_play.gif">
+  </a>
+</div>

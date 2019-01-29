@@ -136,3 +136,16 @@ dl {
     clear: both;
   }
 }
+
+.forvo {
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  font-size: 0;
+  margin: -20px auto 0;
+  filter: grayscale(100%) contrast(125%);
+  transition: all 0.4s ease;
+  opacity: 0.5;
+  &:hover { opacity: 1 }
+  a + a { display: none }
+}
