@@ -111,7 +111,7 @@ image:
       <tspan x="740">ona li kama pana e seli tawa sewi la pakala ike li kama.</tspan>
       <tspan x="740" dy="1.25em">ni la sina tawa mun ala lon tenpo suno ni.</tspan>
     </text>
-    <text y="6405" x="1468" text-anchor="end">jan [_toki_en_pona_uta] li toki+ante e <a href="https://xkcd.com/1133/">lipu+ni</a></text>
+    <text y="6405" x="1468" text-anchor="end">jan [_toki_en_pona_uta] li toki+ante e <a href="https://xkcd.com/1133/" fill="#91a2c4">lipu+ni</a></text>
   </g>
 </svg>
 </div>
