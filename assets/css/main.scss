@@ -49,6 +49,11 @@ a, .copyright a {
   opacity: 0.5;
 }
 
+article.entry {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 2.5em rgba(0, 0, 0, 0.1) inset;
+  padding-bottom: 0 !important;
+}
+
 .layout--page .page-content {
   font-size: 120%;
   text-align: justify;
