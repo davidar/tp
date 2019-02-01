@@ -4,6 +4,7 @@ title_plain: lipu nimi pi toki pona taso
 layout: page
 image:
   path: /images/book.jpg
+  thumbnail: /images/book-400x200.jpg
   caption: "[tan](https://commons.wikimedia.org/wiki/File:Empty_book.jpg)"
 ---
 
