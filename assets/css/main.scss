@@ -50,8 +50,13 @@ a, .copyright a {
 }
 
 article.entry {
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 2.5em rgba(0, 0, 0, 0.1) inset;
   padding-bottom: 0 !important;
+  border-radius: 2px;
+  overflow: hidden;
+  background-color: #fafafa;
+  transition: all 0.4s ease;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); /* https://codepen.io/pen/VYWxXy */
+  &:hover { box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.3), 0 2px 2px 0 rgba(0, 0, 0, 0.2) }
 }
 
 .layout--page .page-content {
