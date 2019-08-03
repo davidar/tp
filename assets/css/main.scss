@@ -19,7 +19,11 @@ html {
   font-family: linja-pona;
   font-feature-settings: "liga" 1, "clig" 1, "calt" 1, "kern" 1, "mark" 1;
   text-rendering: optimizeLegibility;
+}
+
+body {
   line-height: 1.25;
+  font-size: 125%;
 }
 
 .site-logo-img {
