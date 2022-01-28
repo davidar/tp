@@ -14,12 +14,12 @@ image:
 
 kon+tawa lete en suno li toki+utala tan+ni: ona+seme li wawa mute? ona+seme li wawa+lili?
 
-jan li kama. ona+li jo e len+seli.
+jan li kama. ona li jo e len+seli.
 
-kon+tawa lete en suno li pilin sama+ni: ona+li ken weka e len la ona+li wawa mute kin!
+kon+tawa lete en suno li pilin sama+ni: ona li ken weka e len la ona li wawa mute kin!
 
-kon+tawa lete li tawa+wawa. taso ona+li kama+e ni: jan li lete li wile+awen e len. kon+tawa lete li ken+ala weka e len.
+kon+tawa lete li tawa+wawa. taso ona li kama e ni: jan li lete li wile+awen e len. kon+tawa lete li ken+ala weka e len.
 
 suno li kama li seli wawa. tenpo+ni la jan li weka e len.
 
-kon+tawa lete li toki+e ni: "mi wawa+lili. suno li wawa mute."
+kon+tawa lete li toki e ni: "mi wawa+lili. suno li wawa mute."
